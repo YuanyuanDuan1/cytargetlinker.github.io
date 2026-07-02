@@ -7,6 +7,16 @@ Orphanet: an online rare disease and orphan drug data base. Copyright, INSERM 19
 
 ---
 
+### Rare diseases and genes from Orphanet linkset Version 23 Jun 2026
+
+The database content was retrieved through accessing the OrphaData. 
+
+| Linkset | Date | Linkset version | Species | Number of Rare diseases| Number of genes  | Supported identifiers |
+| :---: | :---: | :---: | :---: | :---: |  :---: | :---: |
+| [Orphanet.xgmml](https://figshare.com/ndownloader/files/66167720) | 2026-06-23 | Orphanet | Homo sapiens (hsa) | 4,128 | 4,551 | OrphaID, En,H,L,S |
+
+---
+
 ### Rare diseases and genes from Orphanet linkset Version May 2022
 
 The database content was retrieved through accessing the ftp servers. 
